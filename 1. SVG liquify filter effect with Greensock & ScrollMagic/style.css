@@ -1,6 +1,10 @@
 .center {
     text-align: center;
   }
+
+.chapter {
+    margin-top: 50px;
+}
   
   svg {
     max-height: 0;
